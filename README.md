@@ -20,13 +20,7 @@ This is a simple and interactive web project that allows users to change the bac
 - ✅ JavaScript (Vanilla JS)
 
 
----
 
-## 🚀 How to Run This Project
-
-1. **Clone or download** this repository to your local machine.
-2. Open the `index.html` file in your browser.
-3. Click on the **"Change Background"** button to see the magic!
 
 ---
 
@@ -34,7 +28,6 @@ This is a simple and interactive web project that allows users to change the bac
 
 ![Background Color Changer Screenshot](screenshot.png)
 
-> 💡 You can take a screenshot of the project and name it `screenshot.png` to show it here.
 
 ---
 
@@ -51,11 +44,7 @@ This project is great for:
 
 ## 🧑‍💻 Author
 
-- Name: **Anshu Kohar**
-- GitHub: [@yourusername](https://github.com/yourusername)
+- Name: **Anshu (Chaudhary)**
+- GitHub: [@anshuchaudhary012](https://github.com/anshuchaudhary012)
 
----
 
-## ✅ License
-
-This project is open-source and free to use.
